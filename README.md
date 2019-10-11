@@ -9,7 +9,7 @@
 		<ul>
 			<li>open "colorGAme.html"</li>
 			<li>according to rgb code (given in the game) guess the color and select.</li>
-			<li>you can changed color by clicking "new color button."</li>
+			<li>you can changed color by clicking "new color" button.</li>
 			<li>you can set game mode (easy or hard)</li>
 		</ul>
 		<h2>game screen shots:</h2>
